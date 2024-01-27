@@ -1,0 +1,16 @@
+{
+  "name": "rdm-msg-npm-cdms-platzi",
+  "version": "1.0.0",
+  "description": "Es un paquete para generar mensajes aleatorios, utilizando las clases de PLATZI en NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cristian Mora <cr.mora00@gmail.com>",
+  "license": "MIT",
+  "bin" :{
+    "rdm-msg-cdms-platzi": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
